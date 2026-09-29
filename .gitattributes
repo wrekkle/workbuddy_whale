@@ -1,0 +1,8 @@
+# 仓库里一律 LF 存储与检出，只有 Windows 脚本必须是 CRLF。
+* text=auto eol=lf
+*.vbs text eol=crlf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.png binary
+*.ico binary
+*.gif binary
